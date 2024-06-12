@@ -16,7 +16,7 @@ First, make sure to create the database and tables by running the following comm
 python app/models.py
 ```
 
-**Run the application**
+### Run the application
 1. To run the Streamlit application locally:
    Run the following in terminal.
    ```sh
