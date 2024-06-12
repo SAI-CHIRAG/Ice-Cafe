@@ -24,6 +24,7 @@ python app/models.py
    ```
 
 2. You can also run the application using Docker.
+
    Build the Docker image:
    ```sh
    docker build -t ice-cream-parlor .
